@@ -1,4 +1,4 @@
-#Práctica 2 Robótica Mechanical Eradication Androids
+#Práctica 2 Robótica Mechanical Eradication Androids#
 
 Es necesario instalar bs4, selenium y tkinter antes de ejecutar la aplicación
 
